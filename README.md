@@ -1,8 +1,8 @@
 # Parler-TTS_testing
-## Оценка модели parler-tts-mini-jenny-30H
+Оценка модели parler-tts-mini-jenny-30H
+---
 В данном проекте производится оценка качества работы дообученной модели  Parler-TTS на датасете Jenny.
 Для тестирования использовались данные https://huggingface.co/datasets/ylacombe/jenny-tts-6h
----
 
 ## План оценки модели
 
